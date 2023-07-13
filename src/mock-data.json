@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Test",
+      "address": "3 waterfoot road",
+      "phoneNumber": "333-962-7516",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Guvi",
+      "address": "4 tall town Chennai",
+      "phoneNumber": "011-211-7516",
+      "email": "guvi@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Zen",
+      "address": "11 cross road",
+      "phoneNumber": "788-962-7516",
+      "email": "zen@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "E Learning",
+      "address": "Online",
+      "phoneNumber": "011-962-111",
+      "email": "learning@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Ram",
+      "address": "99 blue acres",
+      "phoneNumber": "3231-962-7516",
+      "email": "ram@gmail.com"
+    }
+  ]
